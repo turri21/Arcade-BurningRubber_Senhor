@@ -1,3 +1,8 @@
+-=(BurningRubber_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Burning Rubber port to MiSTer by Sorgelig
